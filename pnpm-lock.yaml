@@ -78,8 +78,8 @@ dependencies:
     specifier: ^1.2.1
     version: 1.2.1(next@16.3.0)
   nanoid:
-    specifier: ^5.1.12
-    version: 5.1.12
+    specifier: ^5.1.16
+    version: 5.1.16
   next:
     specifier: 16.3.0
     version: 16.3.0(@types/node@20.11.5)(react-dom@18.2.0)(react@18.2.0)
@@ -4234,8 +4234,8 @@ packages:
       thenify-all: 1.6.0
     dev: true
 
-  /nanoid@3.3.17:
-    resolution: {integrity: sha512-xQLf0A3HOMlgHq0n247/LRuAOYmB7dXJ/DvAxGvsSBij45XtBSmQycu+F8ODbHwns/XyFZagyL1+J0Offw1E0g==}
+  /nanoid@3.3.18:
+    resolution: {integrity: sha512-DTg4MJbGMWkfi6VZFdNt2/caMbQy4Ou+Op/hJQvGEWcnVfoA1QA+xzRKAzw9jD6+GVOOeYr/mIcuDSdug6F6+w==}
     engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
     hasBin: true
 
@@ -4245,8 +4245,8 @@ packages:
     hasBin: true
     dev: false
 
-  /nanoid@5.1.12:
-    resolution: {integrity: sha512-qnKlkaoiOqC//7LzQEgBJzzX7f+4Sqz/oCAesl0TOxogBkitVlIp5Ozq9sTE6tWWpIA58qreYF7GoPjuDjoXdw==}
+  /nanoid@5.1.16:
+    resolution: {integrity: sha512-kVrnsrJqMR8+oLJnGEmSWw9BivK5mt7H3FZatVRjrc5wGqFYuBxX1yG7+A7Gi5AefkX6t/oCkizcQgpu0cY1dQ==}
     engines: {node: ^18 || >=20}
     hasBin: true
     dev: false
@@ -4643,7 +4643,7 @@ packages:
     resolution: {integrity: sha512-g50586zr4bZmwFiTlflMu8E0bDTb5I5gertgwAKmsdUlTQIhZtunzUlD1WSzwcVWPoAVpsrA6vlfCD7oXvRwgg==}
     engines: {node: ^10 || ^12 || >=14}
     dependencies:
-      nanoid: 3.3.17
+      nanoid: 3.3.18
       picocolors: 1.1.1
       source-map-js: 1.2.1
 
